@@ -122,7 +122,7 @@ See [Contributing](#contributing).
 ### Analytics
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
-
+  
 [Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
 
 _Related: [Database Management](#database-management), [Personal Dashboards](#personal-dashboards)_
